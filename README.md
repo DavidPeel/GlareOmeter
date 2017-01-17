@@ -1,13 +1,14 @@
 # GlareOmeter
 Windows software to automatically assess glare in aerial survey photos
 
-This is experimental code for testing and evaluation.
+This is *experimental* code for testing and evaluation.
 No guarantees of the quality or accuracy of the results.
 
 The code relies heavily on the openCV C++ library
 http://opencv.org/
 
-The application has no GUI and is a console application. To setup and control edit the file Config.txt
+The application has no GUI and is a console application. To run click on *GlareOmeter_1_01.exe*.
+To setup and control edit the file Config.txt
 
 ```
 #Sampling (eg 2 means analyse every second image)
