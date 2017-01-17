@@ -8,7 +8,7 @@ The code relies heavily on the openCV C++ library
 http://opencv.org/
 
 The application has no GUI and is a console application. To setup and control edit the file Config.txt
-----------------------------------------------------------------------------------------------------------------
+
 ```
 #Sampling (eg 2 means analyse every second image)
 1
@@ -33,4 +33,4 @@ JPG
 #Paths to images (sub folders are searched to so just list the parent folder)
 [insert file folder location here]
 ```
-----------------------------------------------------------------------------------------------------------------
+
