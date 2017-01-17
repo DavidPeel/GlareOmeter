@@ -1,2 +1,2 @@
-# Glaremeter
-C code to automatically assess glare in aerial survey photos
+# GlareOmeter
+Windows software to automatically assess glare in aerial survey photos
